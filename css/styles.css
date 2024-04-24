@@ -84,7 +84,7 @@ body {
 	padding-bottom: 24px;
 }
 
-.site-header-container {
+.site-header__container {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
@@ -154,18 +154,18 @@ body {
 	color: #fff;
 }
 
-.site-header-container {
+.site-header__container {
 	display: flex;
 	align-items: center;
 	justify-content: space-around;
 }
 
-.site-hero-info {
+.site-hero__info {
 	max-width: 500px;
 	width: 100%;
 }
 
-.sity-hero-info-title {
+.sity-hero-info__title {
 	margin-bottom: 16px;
 	font-weight: 700;
 	font-size: 32px;
@@ -197,7 +197,7 @@ body {
 	outline-offset: 3px;
 }
 
-.site-hero-img-wraper img {
+.site-hero__img-wraper img {
 	width: 423px;
 	height: 504px;
 }
@@ -207,7 +207,7 @@ body {
 	padding-bottom: 120px;
 }
 
-.services-title {
+.services__title {
 	text-align: center;
 	font-weight: 700;
 	font-size: 36px;
@@ -216,7 +216,7 @@ body {
 	margin-bottom: 56px;
 }
 
-.services-list {
+.services__list {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -227,16 +227,16 @@ body {
 	margin-bottom: 60px;
 }
 
-.services-item {
+.services__item {
 	display: flex;
 	align-items: center;
 }
 
-.services-item {
+.services__item {
 	margin-bottom: 80px;
 }
 
-.services-img {
+.services__img {
 	margin-right: 64px;
 }
 
@@ -245,12 +245,12 @@ body {
 	height: 200px;
 }
 
-.services-info {
+.services__info {
 	max-width: 600px;
 	width: 100%;
 }
 
-.services-info-title {
+.services__info-title {
 	margin-bottom: 24px;
 	font-weight: 700;
 	font-size: 24px;
